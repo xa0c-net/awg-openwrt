@@ -15,7 +15,7 @@ jobs:
           - tag: "21.02.0"
             pkgarch: aarch64_cortex-a53
             target: mediatek
-            subtarget: mt7981
+            subtarget: filogic
             vermagic: "86cd10224392f0f1f47de97edd009387"
 
     steps:
